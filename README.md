@@ -1,6 +1,6 @@
 # NHL Player Analytics Pipeline
 
-A data pipeline and machine learning system for scraping, processing, and analyzing NHL skater statistics. Pulls live data from the NHL API, computes advanced per-60 metrics, clusters players by role, and identifies similar players using K-Nearest Neighbors.
+A data pipeline and machine learning system for scraping, processing, and analyzing NHL skater statistics. Pulls live data from the NHL API, computes advanced per-60 metrics, clusters players by role, and identifies similar players using K-Nearest Neighbors. This is part of an ongoing project aimed at designing an end-to-end development pipeline with both backend and frontend interfaces. Currently, these scripts act as a backend workflow to a AWS based web application using AWS services such as s3, RDS, Lambda, API Gateway, and a public/private VPC.
 
 ---
 
